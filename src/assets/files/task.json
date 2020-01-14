@@ -1,0 +1,72 @@
+[
+  {
+    "created": "01-01-2020",
+    "state": "Open",
+    "id": 1,
+    "type": "1",
+    "color": "red"
+  },
+  {
+    "created": "02-05-2020",
+    "state": "Closed",
+    "id": 2,
+    "type": "2",
+    "color": "green"
+  },
+  {
+    "created": "01-06-2020",
+    "state": "Open",
+    "id": 1,
+    "type": "1",
+    "color": "red"
+  },
+  {
+    "created": "02-09-2020",
+    "state": "Open",
+    "id": 2,
+    "type": "2",
+    "color": "red"
+  },
+  {
+    "created": "01-02-2020",
+    "state": "Open",
+    "id": 1,
+    "type": "3",
+    "color": "red"
+  },
+  {
+    "created": "02-03-2020",
+    "state": "Closed",
+    "id": 2,
+    "type": "4",
+    "color": "green"
+  },
+  {
+    "created": "01-01-2020",
+    "state": "Closed",
+    "id": 1,
+    "type": "5",
+    "color": "green"
+  },
+  {
+    "created": "02-01-2020",
+    "state": "Closed",
+    "id": 2,
+    "type": "5",
+    "color": "green"
+  },
+  {
+    "created": "01-01-2020",
+    "state": "Open",
+    "id": 1,
+    "type": "1",
+    "color": "red"
+  },
+  {
+    "created": "02-01-2020",
+    "state": "Closed",
+    "id": 2,
+    "type": "3",
+    "color": "green"
+  }
+]
