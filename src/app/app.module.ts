@@ -8,12 +8,14 @@ import { DataTableComponent } from './data-table/data-table.component';
 import { MatTableModule, MatPaginatorModule, MatSortModule, MatFormFieldModule, MatButtonModule, MatCheckboxModule, MatInputModule, MatRippleModule, MatOptionModule, MatSelectModule } from '@angular/material';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { LoginComponent } from './login/login.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     ListTasksComponent,
-    DataTableComponent
+    DataTableComponent,
+    LoginComponent
   ],
   imports: [
     BrowserModule,
